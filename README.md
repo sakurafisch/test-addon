@@ -6,7 +6,7 @@
 
 ## 插件原理
 
-![AddonPrinciple](D:\test-addon\AddonPrinciple.png)
+![AddonPrinciple](./AddonPrinciple.png)
 
 ## 参考链接
 
